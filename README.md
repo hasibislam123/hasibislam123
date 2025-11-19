@@ -1,5 +1,5 @@
-## Hi, I'm Sifad 👋
-<img src="https://i.ibb.co.com/V03QxR8r/github-banner.png" alt="si fad" width="100%" height='330'/>
+## Hi, I'm Hasib 👋
+<img src="https://i.ibb.co.com/ZzfR2VBP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="hasibislam123" width="100%" height='100%'/>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230" />
@@ -44,10 +44,10 @@ coding,you'll find me diving into thoughtful articles or sharing insights online
 ## 🔭 Contact
 You can also find me on:
 
-- **Email**: sifayed99@gmail.com
-- **Linkedin** : [Click Here!](https://www.linkedin.com/in/md-sifayed99/)
-- **Facebook** : [Click Here!](https://www.facebook.com/si.fad.989357)
-- **Twitter** : [Click Here!](https://x.com/SifadS60412)
+- **Email**: hasib64dj@gmail.com
+- **Linkedin** : [Click Here!]()
+- **Facebook** : [Click Here!](https://www.facebook.com/hasib.islam.892114)
+- **Twitter** : [Click Here!](https://x.com/HasibIslam51940)
 
 
 Let's connect and discuss exciting opportunities!
