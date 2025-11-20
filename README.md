@@ -1,5 +1,5 @@
 ## Hi, I'm Hasib 👋
-<img src="https://i.ibb.co.com/ZzfR2VBP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="hasibislam123" width="100%" height='100%'/>
+<img src="https://i.ibb.co.com/DDHFRNmp/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="hasibislam123" width="100%" height='100%'/>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230" />
